@@ -1,2 +1,2 @@
-# PetProjects
+# PetProject
 C# project
